@@ -16,7 +16,9 @@ Let me remind you of the expectations.  Code should be neat, well documented.  V
 *
 * File: Mahdavi_Abbas_HW2_main.c
 *
-* Description:
+* Description: Dynamic Allocation and Populating of personInfo
+Structure: Implementation Project Utilizing Structures, 
+Pointers, Strings, Enums, Bitmaps, and Data Buffering.
 *
 **************************************************************/
 ```

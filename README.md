@@ -9,12 +9,12 @@ Let me remind you of the expectations.  Code should be neat, well documented.  V
 ```
 /**************************************************************
 * Class:  CSC-415-0# Summer 2022
-* Name:
-* Student ID:
-* GitHub UserID:
+* Name: Abbas Mahdavi   
+* Student ID: 9182***420
+* GitHub UserID: AbbasMahdavi021
 * Project: Assignment 2 – Stucture in Memory and Buffering
 *
-* File: <name of this file>
+* File: Mahdavi_Abbas_HW2_main.c
 *
 * Description:
 *
